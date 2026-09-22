@@ -69,6 +69,12 @@ Hello, my name is Marc Baquiran. I am an Aspiring Software/IT Web/Full Stack Dev
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Marcospeedup&layout=compact&theme=tokyonight&title_color=a30005&icon_color=a30005&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Marcospeedup&bg_color=00000000&color=a30005&line=a30005&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
 ### 💭 Dev Quote
 
 <p align="center">
