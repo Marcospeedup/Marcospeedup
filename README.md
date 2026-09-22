@@ -17,6 +17,7 @@ Hello, my name is Marc Baquiran. I am an Aspiring Software/IT Web/Full Stack Dev
 👯 &nbsp;I'm looking to collaborate on **Ongoing Front End Web Design and UIX Development**  
 🤔 &nbsp;I'm looking for help with **Anything and Everything, always eager to learn more about the current technologies, tools, and apps used to date**  
 💬 &nbsp;Ask me about **What video games I like to play/currently playing!**  
+😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **Like watching movies/TV show and playing video games**
 
 ### 🛠️ Tech Stack
