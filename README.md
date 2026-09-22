@@ -10,11 +10,12 @@
 
 ### 🚀 About Me
 
-I am an Aspiring Software/IT- Web/Full Stack Developer and a recent Mohawk College graduate with a strong foundation in Computer Science, Software Support, and Development. I have worked in academic, project‑based, and self‑directed learning environments, building practical skills across modern programming languages and web technologies.
+Hello, my name is Marc Baquiran. I am an Aspiring Software/IT Web/Full Stack Developer and a recent Mohawk College graduate with a strong foundation in Computer Science, Software Support, and Development. I have worked in academic, project‑based, and self‑directed learning environments, building practical skills across modern programming languages and web technologies.
 
-🔭 &nbsp;I'm currently working on **Software Dev/AI Tool Certifications**  
-🌱 &nbsp;I'm currently learning **Front End Web Development**  
-😄 &nbsp;Pronouns: **he/him**  
+
+
+🔭 &nbsp;I'm currently working on **Software Dev/AI Tools Certifications and personal projects**  
+🌱 &nbsp;I'm currently learning **Front End Web Development**   
 ⚡ &nbsp;Fun fact: **Like watching movies and playing video games**
 
 ### 🛠️ Tech Stack
