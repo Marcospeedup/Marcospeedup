@@ -12,11 +12,12 @@
 
 Hello, my name is Marc Baquiran. I am an Aspiring Software/IT Web/Full Stack Developer and a recent Mohawk College graduate with a strong foundation in Computer Science, Software Support, and Development. I have worked in academic, project‑based, and self‑directed learning environments, building practical skills across modern programming languages and web technologies.
 
-
-
-🔭 &nbsp;I'm currently working on **Software Dev/AI Tools Certifications and personal projects**  
-🌱 &nbsp;I'm currently learning **Front End Web Development**   
-⚡ &nbsp;Fun fact: **Like watching movies and playing video games**
+🔭 &nbsp;I'm currently working on **Software Dev/AI Tool Certifications**  
+🌱 &nbsp;I'm currently learning **Software/IT but mainly Front End Web Design/UIX Development and other coding languages**  
+👯 &nbsp;I'm looking to collaborate on **Ongoing Front End Web Design and UIX Development**  
+🤔 &nbsp;I'm looking for help with **Anything and Everything, always eager to learn more about the current technologies, tools, and apps used to date**  
+💬 &nbsp;Ask me about **What video games I like to play/currently playing!**  
+⚡ &nbsp;Fun fact: **Like watching movies/TV show and playing video games**
 
 ### 🛠️ Tech Stack
 
@@ -42,10 +43,9 @@ Hello, my name is Marc Baquiran. I am an Aspiring Software/IT Web/Full Stack Dev
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
